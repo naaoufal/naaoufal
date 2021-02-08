@@ -8,6 +8,9 @@
 
 ### My Github Stats ###
 
+var s = "JavaScript syntax highlighting";
+alert(s);
+
 ***
 
 ### Recent Activity
