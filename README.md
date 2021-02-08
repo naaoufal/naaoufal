@@ -3,7 +3,7 @@
 <!--
 **naaoufal/naaoufal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![alt text](https://github.com/naaoufal/naaoufal/blob/main/image.png?raw=true)
+![alt text](https://github.com/naaoufal/naaoufal/image.png?raw=true)
 
 Here are some ideas to get you started:
 
