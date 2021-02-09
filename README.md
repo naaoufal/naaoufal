@@ -26,15 +26,14 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+***
+
 ### My Github Stats ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naaoufal&show_icons=true&theme=radical)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naaoufal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naaoufal&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-***
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-***
