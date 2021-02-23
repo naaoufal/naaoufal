@@ -1,4 +1,4 @@
-### Welcome to My Github Profil ###
+### Welcome to My Github Profile ###
 
 ***
 
