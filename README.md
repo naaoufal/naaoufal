@@ -28,6 +28,7 @@
 
 <p align="center">
 <a href="https://github.com/naaoufal">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naaoufal&theme=algolia&show_icons=true
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naaoufal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
