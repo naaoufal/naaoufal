@@ -28,7 +28,7 @@
 
 <p align="center">
 <a href="https://github.com/naaoufal">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naaoufal&show_icons=true&theme=algolia&include_all_commits=true/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naaoufal&show_icons=true&theme=algolia&include_all_commits=true&private_commits=true/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naaoufal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
