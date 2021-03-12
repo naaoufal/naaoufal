@@ -32,7 +32,7 @@
 
 ### My Github Stats ###
 
-<p>
+<p align="center">
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=naaoufal&theme=tokyonight&show_icons=true" />
 </a>
