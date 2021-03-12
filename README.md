@@ -38,7 +38,7 @@
 </a>
   
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naaoufal&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naaoufal&theme=dark&show_icons=true" />
 </a>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=naaoufal&theme=rogue" height=250 alt="graph"/>
