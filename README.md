@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaoufal&langs_count=5&theme=tokyonight" height=250 />
 </a>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=naaoufal&theme=rogue" height=250 alt="graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=naaoufal&theme=rogue" height=250 alt="graph" width"100%"/>
 </a>
 </p>
 
