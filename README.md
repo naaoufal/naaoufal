@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=naaoufal&theme=tokyonight&show_icons=true" />
 </a>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaoufal&langs_count=5&theme=tokyonight" />
 </a>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=naaoufal&theme=rogue" height=250 alt="graph"/>
