@@ -36,9 +36,7 @@
 <a href="https://github.com/naaoufal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naaoufal&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/naaoufal/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naaoufal&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naaoufal&layout=compact)](https://github.com/naaoufal/github-readme-stats)
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=naaoufal&theme=rogue" height=250 alt="graph"/>
 </a>
