@@ -34,10 +34,10 @@
 
 <p align="center">
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=naaoufal&theme=rogue&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naaoufal&theme=tokyonight&show_icons=true" />
 </a>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=naaoufal&theme=rogue" height=250 alt="graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=naaoufal&theme=tokyonight" height=250 alt="graph"/>
 </a>
 </p>
 
