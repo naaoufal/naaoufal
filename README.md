@@ -34,7 +34,7 @@
 
 <p align="center">
 <a href="https://github.com/naaoufal/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naaoufal&theme=algolia&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=naaoufal&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/naaoufal/github-readme-stats">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naaoufal&layout=compact&langs_count=8&theme=algolia"/>
