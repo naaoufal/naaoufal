@@ -34,10 +34,10 @@
 
 <div align="center">
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=naaoufal&theme=tokyonight&show_icons=true" height=250 />
+  <img src="https://github-readme-stats.vercel.app/api?username=naaoufal&theme=tokyonight&show_icons=true" height=200 />
 </a>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaoufal&langs_count=5&theme=tokyonight" height=250 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naaoufal&langs_count=5&theme=tokyonight" height=200 />
 </a>
 <br>
 <a>
